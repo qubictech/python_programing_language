@@ -14,3 +14,5 @@ print('Power: ',4**2)
 print('Modulus/Reminder: ',val1%val2)
 
 
+
+# ------------------Python Comparison Operator-------------------------
