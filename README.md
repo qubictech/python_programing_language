@@ -14,12 +14,17 @@ Learning python in one repository. In every commit there will be new lecture.
 * Nasa
 * Netflix and so on...
 
-## Features
+## Features of python
 * Simple and easy to learn
 * Open source
 * High level language
 * Portable
 * Extensible | c/c++, java, .net
+
+## Requirments:
+
+* Latest Version Of Python
+* Anaconda & Jupyter Notebook
 
 ## Contributor
 * @mazharulsabbir
